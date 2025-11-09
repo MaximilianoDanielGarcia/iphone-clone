@@ -1,12 +1,17 @@
-# React + Vite
+# iPhone Website Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Built with
 
-Currently, two official plugins are available:
+- React
+- GSAP
+- Tailwind
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live site URL
 
-## Expanding the ESLint configuration
+- [Site URL](https://iphone-pro-clone.netlify.app/)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Screenshots
+
+- ![](/public/assets/images/screenshot-desktop-macbook.png)
+
+- ![](/public/assets/images/screenshot-desktop-full.png)
